@@ -1,5 +1,5 @@
 # Data Analysis with Python (freeCodeCamp) 🐍
-Hi! Thanks for visiting my repository 😃 In this Data Analysis with Python course, made by <a href="https://www.freecodecamp.org/">freeCodeCamp</a>, I have learned the fundamentals of data analysis with Python. The course covered everything from cleaning and preprocessing data to using libraries like Numpy, Pandas, Matplotlib, Seaborn, and Scipy in order to process, visualize, and make predictions using the available data.
+Hi! Thanks for visiting my repository 😃 In this Data Analysis with Python course, made by <a href="https://www.freecodecamp.org/">freeCodeCamp</a>, I have learned the fundamentals of data analysis with Python. The course covered everything from cleaning and preprocessing data to using libraries like Numpy, Pandas, Matplotlib, Seaborn and Scipy in order to process, visualize and make predictions using the available data.
 
 I also had the opportunity to work on hands-on projects that allowed me to apply what I learned and build my skills in a practical setting. Although you can find out what each one is about if you access them individually, here is a brief summary of each one of them.
 
